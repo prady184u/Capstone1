@@ -8,16 +8,17 @@ How can your children improve their Mathematical intellectual capability right f
 
 # Intended User
 
-In general Children ( Mathematics practice )
-School Kids
-Anyone who wants to break ice from their busy schedule.
+1) In general Children ( Mathematics practice ) <br>
+2) School Kids <br>
+3) Anyone who wants to break ice from their busy schedule.
 
 # Features
 Main Features include:
-Saves information of the player 
-Displays the score at the end of each level
-Provides different levels ( Basic/Intermediate/Advanced)
-Test scores with top 5 ranking by level and day
+1) Saves information of the player/Student <br> 
+2) Displays the score at the end of each level <br>
+3) Provides different levels (Basic/Intermediate/Advanced) - Easy/Basic/Medium/Hard/V.Hard <br>
+4) Test scores with top 5 ranking by level and day <br>
+5) Widget to show the test scores and ranking
 
 # Data persistence 
 Currenlty the project aims to provide the data persistence offline using SQLite database
