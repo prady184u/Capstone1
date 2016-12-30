@@ -13,7 +13,7 @@ How can your children improve their Mathematical intellectual capability right f
 3) Anyone who wants to break ice from their busy schedule.
 
 # Features
-Main Features include:
+Main Features include:<br>
 1) Saves information of the player/Student <br> 
 2) Displays the score at the end of each level <br>
 3) Provides different levels (Basic/Intermediate/Advanced) - Easy/Basic/Medium/Hard/V.Hard <br>
@@ -21,6 +21,6 @@ Main Features include:
 5) Widget to show the test scores and ranking
 
 # Data persistence 
-Currenlty the project aims to provide the data persistence offline using SQLite database
-If time permits will use Firebase for data persistence in the cloud.
+Currenlty the project aims to provide the data persistence offline using SQLite database <br>
+If time permits this project will use Firebase for data persistence in the cloud (or Future enhancement).
 
