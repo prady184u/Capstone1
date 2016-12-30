@@ -1,7 +1,7 @@
 # Capstone1
 Udacity Android Nano Degree Capstone stage 1 project
 
-# Mathe-llectual
+# Mathe-lectual
 
 # Description 
 How can your children improve their Mathematical intellectual capability right from childhood with smart practice on simple maths. Mathellectual aims to provide a platform for children to practice basic mathematical skills with increasing difficulty levels. School kids can test their math skills and enhance their mental capabilities. Schools can make use of this app for their students mathematics practice/trainings. 
